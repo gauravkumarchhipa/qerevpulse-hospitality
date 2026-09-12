@@ -1,0 +1,4034 @@
+[
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "174",
+    "Price Forecasted": "640",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "174",
+    "Price Forecasted": "704",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "174",
+    "Price Forecasted": "768",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "174",
+    "Price Forecasted": "832",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "168",
+    "Price Forecasted": "896",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "163",
+    "Price Forecasted": "960",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "157",
+    "Price Forecasted": "1024",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "151",
+    "Price Forecasted": "1088",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "145",
+    "Price Forecasted": "1152",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "139",
+    "Price Forecasted": "1216",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "0",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "131",
+    "Price Forecasted": "1280",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "114",
+    "Price Forecasted": "1344",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "99",
+    "Price Forecasted": "1408",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "86",
+    "Price Forecasted": "1472",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "74",
+    "Price Forecasted": "1536",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "62",
+    "Price Forecasted": "1600",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "50",
+    "Price Forecasted": "1664",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "38",
+    "Price Forecasted": "1728",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "38",
+    "Price Forecasted": "1792",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "38",
+    "Price Forecasted": "1856",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "38",
+    "Price Forecasted": "1920",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "244",
+    "Price Forecasted": "640",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "244",
+    "Price Forecasted": "704",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "244",
+    "Price Forecasted": "768",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "244",
+    "Price Forecasted": "832",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "235",
+    "Price Forecasted": "896",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "226",
+    "Price Forecasted": "960",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "217",
+    "Price Forecasted": "1024",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "209",
+    "Price Forecasted": "1088",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "200",
+    "Price Forecasted": "1152",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "191",
+    "Price Forecasted": "1216",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "0",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "183",
+    "Price Forecasted": "1280",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "166",
+    "Price Forecasted": "1344",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "149",
+    "Price Forecasted": "1408",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "131",
+    "Price Forecasted": "1472",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "114",
+    "Price Forecasted": "1536",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "96",
+    "Price Forecasted": "1600",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "79",
+    "Price Forecasted": "1664",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "61",
+    "Price Forecasted": "1728",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "61",
+    "Price Forecasted": "1792",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "61",
+    "Price Forecasted": "1856",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "61",
+    "Price Forecasted": "1920",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "118",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "118",
+    "Price Forecasted": "1100",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "118",
+    "Price Forecasted": "1200",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "118",
+    "Price Forecasted": "1300",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "115",
+    "Price Forecasted": "1400",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "113",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "110",
+    "Price Forecasted": "1600",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "107",
+    "Price Forecasted": "1700",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "103",
+    "Price Forecasted": "1800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "98",
+    "Price Forecasted": "1900",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "0",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "89",
+    "Price Forecasted": "2000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "69",
+    "Price Forecasted": "2100",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "60",
+    "Price Forecasted": "2200",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "52",
+    "Price Forecasted": "2300",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "46",
+    "Price Forecasted": "2400",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "40",
+    "Price Forecasted": "2500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "35",
+    "Price Forecasted": "2600",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "30",
+    "Price Forecasted": "2700",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "30",
+    "Price Forecasted": "2800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "30",
+    "Price Forecasted": "2900",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "30",
+    "Price Forecasted": "3000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "160",
+    "Price Forecasted": "750",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "160",
+    "Price Forecasted": "825",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "160",
+    "Price Forecasted": "900",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "160",
+    "Price Forecasted": "975",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "155",
+    "Price Forecasted": "1050",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "151",
+    "Price Forecasted": "1125",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "147",
+    "Price Forecasted": "1200",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "142",
+    "Price Forecasted": "1275",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "136",
+    "Price Forecasted": "1350",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "-5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "130",
+    "Price Forecasted": "1425",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "0",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "120",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "98",
+    "Price Forecasted": "1575",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "84",
+    "Price Forecasted": "1650",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "72",
+    "Price Forecasted": "1725",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "61",
+    "Price Forecasted": "1800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "51",
+    "Price Forecasted": "1875",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "42",
+    "Price Forecasted": "1950",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "32",
+    "Price Forecasted": "2025",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "32",
+    "Price Forecasted": "2100",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "32",
+    "Price Forecasted": "2175",
+    "": ""
+  },
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Perc Utilization": "50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "32",
+    "Price Forecasted": "2250",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "0",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "0",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "206",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "0",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "428",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "-5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "0",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Perc Utilization": "50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "303",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "0",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "0",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "352.54",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "0",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "800",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "-5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "0",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Perc Utilization": "50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "576",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "0",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "0",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "279",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "0",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1000",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "-5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "0",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Perc Utilization": "50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "0",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "0",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1238",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "0",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "-5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "0",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Perc Utilization": "50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "1500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "0",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "5",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "10",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "15",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "20",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "25",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "30",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "35",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "40",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "45",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "50",
+    "Room Type": "Single Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "0",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "5",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "10",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "15",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "20",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "25",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "30",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "35",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "40",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "45",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "50",
+    "Room Type": "Double Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "2147",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "0",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "5",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "10",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "15",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "20",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "25",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "30",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "35",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "40",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "45",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "50",
+    "Room Type": "Suite",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "4919",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "-5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "0",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "5",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "10",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "15",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "20",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "25",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "30",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "35",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "40",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "45",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Perc Utilization": "50",
+    "Room Type": "Deluxe Room",
+    "Bookings Forecasted": "0",
+    "Price Forecasted": "3500",
+    "": ""
+  }
+]

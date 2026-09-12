@@ -1,0 +1,52 @@
+[
+  {
+    "ID": "I001",
+    "Name": "Hilton Jumeirah",
+    "Location": "Abu Dhabi",
+    "No. of Rooms": "500",
+    "Single Room": "125",
+    "Double Room": "175",
+    "Suite": "85",
+    "Deluxe Room": "115"
+  },
+  {
+    "ID": "I002",
+    "Name": "Hilton The Walk",
+    "Location": "Ajman",
+    "No. of Rooms": "800",
+    "Single Room": "200",
+    "Double Room": "280",
+    "Suite": "136",
+    "Deluxe Room": "184"
+  },
+  {
+    "ID": "I003",
+    "Name": "Taj Exotica Resort & Spa",
+    "Location": "Ras Al Khaimah",
+    "No. of Rooms": "600",
+    "Single Room": "150",
+    "Double Room": "210",
+    "Suite": "102",
+    "Deluxe Room": "138"
+  },
+  {
+    "ID": "I004",
+    "Name": "Merriott Hotel & Spa",
+    "Location": "Fujairah",
+    "No. of Rooms": "200",
+    "Single Room": "50",
+    "Double Room": "70",
+    "Suite": "34",
+    "Deluxe Room": "46"
+  },
+  {
+    "ID": "I005",
+    "Name": "Delta Hotels",
+    "Location": "Umm Al Quwain",
+    "No. of Rooms": "700",
+    "Single Room": "175",
+    "Double Room": "245",
+    "Suite": "119",
+    "Deluxe Room": "161"
+  }
+]

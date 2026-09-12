@@ -1,0 +1,9 @@
+export { default as filterReducer } from "./filter/filterSlice";
+export { default as revenueFilterReducer } from "./filter/revenueFilterSlice";
+export { default as predictedAnalysisFilterReducer } from "./filter/predictedAnalysisFilterSlice";
+export { default as dailyAnalysisFilterReducer } from "./filter/dailyAnalysisSlice";
+export { default as seasonalAnalysisReducer } from "./filter/seasonalAnalysisSlice";
+export { default as revenueReducer } from "./revenue/revenueKpiSlice";
+export { default as seasonalReducer } from "./revenue/seasonalKpiSlice";
+export { default as dailyReducer } from "./revenue/dailyKpiSlice";
+export { default as predictiveReducer } from "./revenue/predictiveSlice";

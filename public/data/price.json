@@ -1,0 +1,44 @@
+[
+  {
+    "Hotel Name": "Delta Hotels by Marriott Jumeirah Beach",
+    "Single Room": "1280",
+    "Double Room": "1280",
+    "Suite": "2000",
+    "Deluxe Room": "1500"
+  },
+  {
+    "Hotel Name": "Riviera Hotel",
+    "Single Room": "206",
+    "Double Room": "206",
+    "Suite": "428",
+    "Deluxe Room": "303"
+  },
+  {
+    "Hotel Name": "Radisson Blu Hotel, Dubai Deira Creek",
+    "Single Room": "352.54",
+    "Double Room": "352.54",
+    "Suite": "800",
+    "Deluxe Room": "576"
+  },
+  {
+    "Hotel Name": "Hotel Indigo Dubai Downtown",
+    "Single Room": "279",
+    "Double Room": "279",
+    "Suite": "1000",
+    "Deluxe Room": "500"
+  },
+  {
+    "Hotel Name": "Sofitel Dubai Downtown",
+    "Single Room": "1238",
+    "Double Room": "1238",
+    "Suite": "1500",
+    "Deluxe Room": "1500"
+  },
+  {
+    "Hotel Name": "The Palm - Atlantis",
+    "Single Room": "2147",
+    "Double Room": "2147",
+    "Suite": "4919",
+    "Deluxe Room": "3500"
+  }
+]

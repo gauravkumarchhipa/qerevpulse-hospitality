@@ -57,9 +57,9 @@ const Header = () => {
             <Image
               src="/qe-revpulse.png"
               alt="QE RevPulse"
-              width={140}
-              height={36}
-              className="object-contain h-8 w-auto cursor-pointer"
+              width={120}
+              height={30}
+              className="object-contain h-6 w-auto cursor-pointer"
               onClick={() => router.push("/")}
               priority
             />

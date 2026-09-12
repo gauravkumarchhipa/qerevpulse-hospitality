@@ -1,14 +1,13 @@
 "use client";
 
 import * as Popover from "@radix-ui/react-popover";
-import React, { useEffect, useLayoutEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname, useRouter } from "next/navigation";
 import { Moon, Sun, Menu, X } from "lucide-react";
 import { useTheme } from "@/app/theme-provider";
 import { Button } from "../ui/button";
-import LineChart from "../dashboard/charts/line-chart";
 
 const navItems = [
   { href: "/", label: "Dashboard" },
@@ -27,19 +26,6 @@ const Header = () => {
   const [open, setOpen] = React.useState(false);
   const [showHeader, setShowHeader] = useState(true);
   const [lastScrollY, setLastScrollY] = useState(0);
-  const isActive = (href: string) => pathname === href;
-  const [hideHeader, setHideHeader] = useState(false);
-  useLayoutEffect(() => {
-    const host = window.location.hostname;
-    if (
-      host === "hospitality-demo.vercel.app" ||
-      host === "localhost" ||
-      host === "hospitality-hotel-resort-dubai.vercel.app" ||
-      host === "172.16.51.124"
-    ) {
-      setHideHeader(true);
-    }
-  }, []);
 
   const controlNavbar = () => {
     if (typeof window !== "undefined") {
@@ -80,25 +66,20 @@ const Header = () => {
           </div>
 
           {/* Desktop Navigation */}
-          {/* <nav className="hidden gap-6 items-center text-sm sm:text-base font-medium text-white"> */}
           <nav className="hidden lg:flex gap-6 items-center text-sm sm:text-base font-medium text-white">
-            {hideHeader ? (
-              navItems.map(({ href, label }: any) => (
-                <Link
-                  key={href}
-                  href={href}
-                  className={`pb-1 border-b-2 transition-all duration-150 ${
-                    pathname === href
-                      ? "border-white"
-                      : "border-transparent hover:border-blue-300"
-                  }`}
-                >
-                  {label}
-                </Link>
-              ))
-            ) : (
-              <></>
-            )}
+            {navItems.map(({ href, label }: any) => (
+              <Link
+                key={href}
+                href={href}
+                className={`pb-1 border-b-2 transition-all duration-150 ${
+                  pathname === href
+                    ? "border-white"
+                    : "border-transparent hover:border-blue-300"
+                }`}
+              >
+                {label}
+              </Link>
+            ))}
           </nav>
 
           {/* Mobile + Theme Group */}
@@ -115,57 +96,55 @@ const Header = () => {
                 <Moon className="h-5 w-5" />
               )}
             </Button>
-            {hideHeader && (
-              <Popover.Root open={open} onOpenChange={setOpen}>
-                <Popover.Trigger asChild>
-                  <Button
-                    variant="ghost"
-                    size="icon"
-                    className="text-white hover:bg-blue-700"
-                  >
-                    <Menu className="h-5 w-5" />
-                  </Button>
-                </Popover.Trigger>
+            <Popover.Root open={open} onOpenChange={setOpen}>
+              <Popover.Trigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="text-white hover:bg-blue-700"
+                >
+                  <Menu className="h-5 w-5" />
+                </Button>
+              </Popover.Trigger>
 
-                <Popover.Portal>
-                  <Popover.Content
-                    sideOffset={8}
-                    align="end"
-                    className="z-[100] bg-white dark:bg-black text-black dark:text-white rounded-lg shadow-md p-4 w-64"
-                  >
-                    <div className="flex justify-between items-center mb-4">
-                      <span className="text-sm font-bold">Menu</span>
-                      <Popover.Close asChild>
-                        <Button
-                          variant="ghost"
-                          size="icon"
-                          className="text-black dark:text-white hover:bg-gray-200 dark:hover:bg-black"
-                        >
-                          <X className="h-5 w-5" />
-                        </Button>
-                      </Popover.Close>
-                    </div>
+              <Popover.Portal>
+                <Popover.Content
+                  sideOffset={8}
+                  align="end"
+                  className="z-[100] bg-white dark:bg-black text-black dark:text-white rounded-lg shadow-md p-4 w-64"
+                >
+                  <div className="flex justify-between items-center mb-4">
+                    <span className="text-sm font-bold">Menu</span>
+                    <Popover.Close asChild>
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        className="text-black dark:text-white hover:bg-gray-200 dark:hover:bg-black"
+                      >
+                        <X className="h-5 w-5" />
+                      </Button>
+                    </Popover.Close>
+                  </div>
 
-                    <div className="flex flex-col gap-3">
-                      {navItems.map(({ href, label }: any) => (
-                        <Link
-                          key={href}
-                          href={href}
-                          onClick={() => setOpen(false)}
-                          className={`block text-sm font-medium ${
-                            pathname === href
-                              ? "text-blue-700"
-                              : "hover:text-blue-600"
-                          }`}
-                        >
-                          {label}
-                        </Link>
-                      ))}
-                    </div>
-                  </Popover.Content>
-                </Popover.Portal>
-              </Popover.Root>
-            )}
+                  <div className="flex flex-col gap-3">
+                    {navItems.map(({ href, label }: any) => (
+                      <Link
+                        key={href}
+                        href={href}
+                        onClick={() => setOpen(false)}
+                        className={`block text-sm font-medium ${
+                          pathname === href
+                            ? "text-blue-700"
+                            : "hover:text-blue-600"
+                        }`}
+                      >
+                        {label}
+                      </Link>
+                    ))}
+                  </div>
+                </Popover.Content>
+              </Popover.Portal>
+            </Popover.Root>
           </div>
 
           {/* Theme toggle for desktop */}
